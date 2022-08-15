@@ -1,0 +1,26 @@
+{
+	"messages": [],
+	"data": {
+		"quantidadeListaNotificacao": 1,
+		"indiceTabela": 1,
+		"indicadorContinuacaoPesquisa": "N",
+		"listaNotificacao": [
+			{
+				"numeroNotificacao": 31,
+				"timestampRegistroSolicitacao": "2022-01-26 09:47:31.464083",
+				"codigoUsuarioResponsavelSolicitacao": "CRMSI248",
+				"timestampEstadoVigente": "2022-01-26 09:47:31.464083",
+				"codigoEstadoVigente": 1,
+				"codigoUsuarioResponsavelEstadoVigente": "CRMSI248",
+				"codigoJustificativaEstadoVigente": 2,
+				"quantidadeOrdemServico": 3,
+				"codigoFiscalContrato": "F1111111",
+				"codigoFiscalServico": "F1111111",
+				"anoContrato": 2014,
+				"codigoUnidadeOrganizacionalContrato": 29133,
+				"numeroContrato": 536,
+				"numeroResumidoContrato": 201474210536
+			}
+		]
+	}
+}
